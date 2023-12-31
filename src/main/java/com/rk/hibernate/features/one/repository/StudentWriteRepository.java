@@ -1,7 +1,7 @@
-package com.rk.hibernate.features.cif.repository;
+package com.rk.hibernate.features.one.repository;
 
 
-import com.rk.hibernate.features.cif.domain.onetoone.Student;
+import com.rk.hibernate.features.one.domain.onetoone.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 @Component
-@ConfigurationProperties(prefix = "spring.biz-datasource")
+@ConfigurationProperties(prefix = "spring.two-datasource")
 @Data
-public class BizDataSourceProperties extends CommonDatasourceProperties {
+public class TwoDataSourceProperties extends CommonDatasourceProperties {
 }

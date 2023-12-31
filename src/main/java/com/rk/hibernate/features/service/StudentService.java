@@ -1,8 +1,8 @@
 package com.rk.hibernate.features.service;
 
-import com.rk.hibernate.features.cif.domain.onetoone.Address;
-import com.rk.hibernate.features.cif.domain.onetoone.Student;
-import com.rk.hibernate.features.cif.repository.StudentWriteRepository;
+import com.rk.hibernate.features.one.domain.onetoone.Address;
+import com.rk.hibernate.features.one.domain.onetoone.Student;
+import com.rk.hibernate.features.one.repository.StudentWriteRepository;
 import com.rk.hibernate.features.request.StudentDO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

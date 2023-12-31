@@ -1,4 +1,4 @@
-package com.rk.hibernate.features.cif.domain.manytomany;
+package com.rk.hibernate.features.one.domain.manytomany;
 
 
 import javax.persistence.*;

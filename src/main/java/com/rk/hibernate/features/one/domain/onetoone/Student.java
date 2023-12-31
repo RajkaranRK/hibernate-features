@@ -1,4 +1,4 @@
-package com.rk.hibernate.features.cif.domain.onetoone;
+package com.rk.hibernate.features.one.domain.onetoone;
 
 
 import lombok.AllArgsConstructor;

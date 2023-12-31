@@ -1,6 +1,6 @@
-package com.rk.hibernate.features.biz.repository;
+package com.rk.hibernate.features.two.repository;
 
-import com.rk.hibernate.features.biz.domain.onetomany.Book;
+import com.rk.hibernate.features.two.domain.onetomany.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

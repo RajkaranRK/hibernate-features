@@ -1,6 +1,6 @@
 package com.rk.hibernate.features.controller;
 
-import com.rk.hibernate.features.cif.domain.onetoone.Student;
+import com.rk.hibernate.features.one.domain.onetoone.Student;
 import com.rk.hibernate.features.request.StudentDO;
 import com.rk.hibernate.features.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
