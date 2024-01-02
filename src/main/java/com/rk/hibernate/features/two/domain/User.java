@@ -1,4 +1,4 @@
-package com.rk.hibernate.features.two.domain.onetomany;
+package com.rk.hibernate.features.two.domain;
 
 
 import lombok.AllArgsConstructor;
